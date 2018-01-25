@@ -1,0 +1,38 @@
+[18-Nov-2015 02:42:14] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home4/pamplon1/public_html/ventasonline/tienda/index.php on line 352
+[18-Nov-2015 02:42:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home4/pamplon1/public_html/ventasonline/tienda/index.php on line 353
+[18-Nov-2015 02:42:14] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home4/pamplon1/public_html/ventasonline/tienda/index.php on line 396
+[18-Nov-2015 02:49:00] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home4/pamplon1/public_html/ventasonline/tienda/index.php on line 357
+[18-Nov-2015 02:49:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home4/pamplon1/public_html/ventasonline/tienda/index.php on line 358
+[18-Nov-2015 02:49:00] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home4/pamplon1/public_html/ventasonline/tienda/index.php on line 404
+[18-Nov-2015 05:28:57] PHP Parse error:  syntax error, unexpected '*' in /home4/pamplon1/public_html/ventasonline/tienda/descripcion.php on line 382
+[18-Nov-2015 05:29:04] PHP Parse error:  syntax error, unexpected '*' in /home4/pamplon1/public_html/ventasonline/tienda/descripcion.php on line 382
+[18-Nov-2015 05:42:18] PHP Parse error:  syntax error, unexpected '*' in /home4/pamplon1/public_html/ventasonline/tienda/descripcion_procesar.php on line 85
+[18-Nov-2015 05:45:07] PHP Parse error:  syntax error, unexpected '*' in /home4/pamplon1/public_html/ventasonline/tienda/descripcion_procesar.php on line 84
+[18-Nov-2015 05:45:22] PHP Parse error:  syntax error, unexpected $end in /home4/pamplon1/public_html/ventasonline/tienda/descripcion_procesar.php on line 88
+[18-Nov-2015 05:55:11] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home4/pamplon1/public_html/ventasonline/tienda/descripcion.php on line 110
+[18-Nov-2015 16:48:55] PHP Parse error:  syntax error, unexpected $end in /home4/pamplon1/public_html/ventasonline/tienda/plantilla.php on line 648
+[18-Nov-2015 23:03:42] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:04:08] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:08:50] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:08:55] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:09:05] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:09:13] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:09:21] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:09:30] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:09:58] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:10:15] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 94
+[18-Nov-2015 23:14:29] PHP Parse error:  syntax error, unexpected $end in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 101
+[18-Nov-2015 23:14:54] PHP Parse error:  syntax error, unexpected $end in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 101
+[18-Nov-2015 23:14:56] PHP Parse error:  syntax error, unexpected $end in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 101
+[18-Nov-2015 23:18:20] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 92
+[18-Nov-2015 23:18:30] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 92
+[18-Nov-2015 23:19:14] PHP Parse error:  syntax error, unexpected $end in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 99
+[18-Nov-2015 23:20:02] PHP Parse error:  syntax error, unexpected $end in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 101
+[18-Nov-2015 23:20:07] PHP Parse error:  syntax error, unexpected $end in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 101
+[18-Nov-2015 23:25:19] PHP Parse error:  syntax error, unexpected T_LOGICAL_OR in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 9
+[18-Nov-2015 23:25:32] PHP Parse error:  syntax error, unexpected T_LOGICAL_OR in /home4/pamplon1/public_html/ventasonline/tienda/compraDirecta.php on line 9
+[23-Nov-2015 04:42:57] PHP Parse error:  syntax error, unexpected '<' in /home4/pamplon1/public_html/ventasonline/recuperar.php on line 110
+[23-Nov-2015 04:43:48] PHP Parse error:  syntax error, unexpected '<' in /home4/pamplon1/public_html/ventasonline/recuperar.php on line 110
+[23-Nov-2015 04:43:50] PHP Parse error:  syntax error, unexpected '<' in /home4/pamplon1/public_html/ventasonline/recuperar.php on line 110
+[23-Nov-2015 04:45:19] PHP Parse error:  syntax error, unexpected '}' in /home4/pamplon1/public_html/ventasonline/recuperar.php on line 119
+[23-Nov-2015 04:45:21] PHP Parse error:  syntax error, unexpected '}' in /home4/pamplon1/public_html/ventasonline/recuperar.php on line 119
